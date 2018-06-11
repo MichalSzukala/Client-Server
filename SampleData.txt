@@ -1,0 +1,4 @@
+#A:RED:5
+#B:BLUE:10
+#C:GREEN:1
+#D:BLACK:7
