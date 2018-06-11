@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowServer", "Snow\SnowServer.csproj", "{DB60662B-AD77-4AE1-BB16-75420B43EA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowServerUnitTest", "UnitTestSnowServer\SnowServerUnitTest.csproj", "{4D902283-22ED-46C8-A42C-4523B083892E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB60662B-AD77-4AE1-BB16-75420B43EA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB60662B-AD77-4AE1-BB16-75420B43EA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB60662B-AD77-4AE1-BB16-75420B43EA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB60662B-AD77-4AE1-BB16-75420B43EA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D902283-22ED-46C8-A42C-4523B083892E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D902283-22ED-46C8-A42C-4523B083892E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D902283-22ED-46C8-A42C-4523B083892E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D902283-22ED-46C8-A42C-4523B083892E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77E1C53-58BF-409D-B024-216ADB060A25}
+	EndGlobalSection
+EndGlobal
